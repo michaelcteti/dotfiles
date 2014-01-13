@@ -121,6 +121,6 @@ alias sublh="sublime_text . &"
 
 alias be='bundle exec'
 alias jt='bin/jenkins'
-alias tests='bundle exec rspec spec'
+alias tests='spring rake'
 
 PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
