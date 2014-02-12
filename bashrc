@@ -124,3 +124,5 @@ alias jt='bin/jenkins'
 alias tests='spring rake'
 
 PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+export TERM=xterm-256color
